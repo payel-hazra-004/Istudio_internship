@@ -36,16 +36,7 @@ Make sure you have the following installed:
 - pip packages:
   ```
   pip install pandas numpy matplotlib seaborn
-  ```
-
-### Running the Notebook
-
-1. Clone the repository or download the notebook.
-2. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-3. Open `Capstone Project_ - Problem for Covid - 19 Data Analysis.ipynb` and run all cells.
+  ``
 
 ## 📂 Data Source
 

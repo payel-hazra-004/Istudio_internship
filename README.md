@@ -1,15 +1,6 @@
-# 📊 Capstone Project: COVID-19 Data Analysis
+# 📊 COVID-19 Data Analysis
 
 This project is part of a capstone exercise aimed at analyzing the spread and impact of the COVID-19 pandemic using real-world data. The project is implemented in Python using Jupyter Notebook and employs various data science and visualization techniques.
-
-## 📁 Project Structure
-
-```
-├── Capstone Project_ - Problem for Covid - 19 Data Analysis.ipynb
-├── README.md
-└── /data
-    └── covid_19_data.csv (assumed data source)
-```
 
 ## 🧪 Objective
 
@@ -75,8 +66,3 @@ Make sure your dataset (e.g., `covid_19_data.csv`) is placed in the correct dire
 ## 🧾 License
 
 This project is for educational purposes only and does not have a formal license.
-
-## 🙋‍♀️ Authors
-
-- [Your Name]
-- Capstone Project Submission – [Institution or Course Name]
